@@ -1,0 +1,13 @@
+Fri 29 Apr 2022 20:57:26 GMT 
+
+>>> Go to the end of the line to view the latest version of QR <<<
+
+>> Version 1.0
+
+    Today the first version of this project has just been release (Not yet Official), version1.0 is now the latest version of Quick Transfer. Changes have been made in this new update: 
+    >> Improved GUI
+    >> Title of the project now official
+    >> Coloured-stylish-designed text implemented
+    
+    
+
