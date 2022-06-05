@@ -8,7 +8,6 @@ from firstproj import User_Account_Handler as U
 from pandas import DataFrame, read_csv
 from random import randrange as ran
 from pyttsx3 import init, speak
-from multiprocessing import Process
 from art import tprint
 
 
